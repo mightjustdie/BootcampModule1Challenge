@@ -5,3 +5,8 @@ The errors I found upon looking at the webpage are listed here:
 -Line 30 did not have an ID tag making the text not function as the others do in the header
 These errors were corrected
 
+Link to deployed website
+https://mightjustdie.github.io/BootcampModule1Challenge/
+
+Screenshot of deployed website
+https://github.com/mightjustdie/BootcampModule1Challenge/issues/1#issue-1503724016
